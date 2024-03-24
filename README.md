@@ -1,5 +1,5 @@
 # Иван
 Мой первый опубликованный сайт
 
-[Урок 12](https://ivangang66.github.io/dist/"Описание") Работа с репозиторием на GitHub
+[dist](https://ivangang66.github.io/dist/"Описание") Работа с репозиторием на GitHub
 
