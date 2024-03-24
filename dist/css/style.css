@@ -1,0 +1,150 @@
+*
+.box {
+	position: absolute;
+	width: 41px;
+	height: 43px;
+	left: 489px;
+	top: 20px;
+}
+.mini-box {
+	position: absolute;
+	width: 90px;
+	height: 14px;
+	left: 542px;
+	top: 25px;
+}
+.mega-box {
+	position: absolute;
+	width: 179px;
+	height: 10px;
+	left: 542px;
+	top: 50px;
+	font-size: 10px;
+	margin-bottom: 27px;
+}
+.super-box{
+position: absolute;
+width: 112px;
+height: 11px;
+left: 1295px;
+top: 45px;
+}
+.small-box{
+position: absolute;
+width: 148px;
+height: 13px;
+top: 36px;
+left: 1091px;
+
+font-family: "undefined";
+font-size: 18px;
+font-weight: undefined;
+font-style: normal;
+color: #292929;
+}
+.big-box{
+position: absolute;
+width: 172px;
+height: 8px;
+left: 1069px;
+top: 60px;
+
+font-family: "undefined";
+font-size: 11px;
+font-weight: undefined;
+font-style: normal;
+color: #969696;
+}
+.jeambox{  
+position: absolute;
+width: 216px;
+height: 17px;
+font-size: 20px;
+color: #292929;
+left: 851px;
+top: 760px;}
+.danil {
+position: absolute;
+left: 275px;
+width: 100px;
+height: 63px;
+top: 98px;
+position: absolute;
+background: rgba(255, 204, 0, 1)}
+.gl {
+position: absolute;
+width: 150px;
+height: 60px;
+left: 509px;
+top: 115px;}
+.cl {
+position: absolute;
+width: 150px;
+height: 60px;
+top: 115px;
+left: 659px;
+}
+.us {
+position: absolute;
+width: 150px;
+height: 60px;
+top: 115px;
+left: 809px;
+}
+.dv {
+position: absolute;
+width: 150px;
+height: 60px;
+top: 115px;
+left: 959px;
+}
+.ok {
+position: absolute;
+width: 150px;
+height: 60px;
+left: 1120px;
+top: 115px;
+}
+.kn {
+position: absolute;
+width: 150px;
+height: 60px;
+left: 1300px;
+top: 115px;
+}
+.photo{
+position: absolute;
+width: 1920px;
+height: 553px;
+opacity: 1;
+left: 0px;
+top: 15px;
+}
+.b {
+position: absolute;
+width: 408px;
+height: 31px;
+
+font-family: "undefined";
+font-size: 36px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: black;
+left: 490px;
+top: 300px;
+}
+.b{
+position: absolute;
+width: 240px;
+height: 54px;
+left: 491px;
+top: 371px;
+
+font-family: "undefined";
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: #FFFFFF;
+}
